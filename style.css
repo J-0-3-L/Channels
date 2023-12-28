@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Work+Sans:wght@100;300;400;600;800&display=swap');
+*{
+    box-sizing: border-box;
+    font-family: 'Work Sans';
+    margin: 0;
+    padding: 0;
+}
+.view{
+    background: linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.3)),
+    url("https://wallpaperbat.com/img/680975-download-wallpaper-finance-concepts-charts-background-with-graphs-stock-exchanges-money-business-concepts-finance-for-desktop-with-resolution-2560x1600-high-quality-hd-picture-wallpaper.jpg");
+    background-size: cover;
+    height: 100vh;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+.view a{
+    display: flex;
+    justify-content: center;
+}
